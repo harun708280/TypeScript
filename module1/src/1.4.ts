@@ -25,3 +25,6 @@ numbers.push(9)
 // tuple
 
 const ageName:[number,string,boolean]=[23,'ali',true]
+ 
+
+
